@@ -136,14 +136,23 @@ public class Group
     public List<Student> Students { get; private set; }
 
     // Конструктор для инициализации Group
-    public Group(Teacher teacher)
+    public Group(Teacher teacher, List<Student> students = null)
     {
         Teacher = teacher;
+        Students = students ?? new List<Student>();
     }
+
     // Добавить Студента
     public void AddStudent(Student student)
     {
-        Students.Add(student);
+        if (student != null) // check for null reference
+        {
+            Students.Add(student);
+        }
+        else
+        {
+            Console.WriteLine("Cannot add null student to group.");
+        }
     }
 
     // Убрать Студента
