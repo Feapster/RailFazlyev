@@ -1,0 +1,23 @@
+D:\Git\RailFazlyev\Human_Main\bin\Debug\net7.0\Human_Main.exe
+D:\Git\RailFazlyev\Human_Main\bin\Debug\net7.0\Human_Main.deps.json
+D:\Git\RailFazlyev\Human_Main\bin\Debug\net7.0\Human_Main.runtimeconfig.json
+D:\Git\RailFazlyev\Human_Main\bin\Debug\net7.0\Human_Main.dll
+D:\Git\RailFazlyev\Human_Main\bin\Debug\net7.0\Human_Main.pdb
+D:\Git\RailFazlyev\Human_Main\obj\Debug\net7.0\Human_Main.csproj.AssemblyReference.cache
+D:\Git\RailFazlyev\Human_Main\obj\Debug\net7.0\Human_Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\RailFazlyev\Human_Main\obj\Debug\net7.0\Human_Main.AssemblyInfoInputs.cache
+D:\Git\RailFazlyev\Human_Main\obj\Debug\net7.0\Human_Main.AssemblyInfo.cs
+D:\Git\RailFazlyev\Human_Main\obj\Debug\net7.0\Human_Main.csproj.CoreCompileInputs.cache
+D:\Git\RailFazlyev\Human_Main\obj\Debug\net7.0\Human_Main.dll
+D:\Git\RailFazlyev\Human_Main\obj\Debug\net7.0\refint\Human_Main.dll
+D:\Git\RailFazlyev\Human_Main\obj\Debug\net7.0\Human_Main.pdb
+D:\Git\RailFazlyev\Human_Main\obj\Debug\net7.0\Human_Main.genruntimeconfig.cache
+D:\Git\RailFazlyev\Human_Main\obj\Debug\net7.0\ref\Human_Main.dll
+D:\Git\RailFazlyev\Human_Main copy\obj\Debug\net7.0\Human_Main.csproj.AssemblyReference.cache
+D:\Git\RailFazlyev\Human_Main copy\obj\Debug\net7.0\Human_Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\RailFazlyev\Human_Main copy\obj\Debug\net7.0\Human_Main.AssemblyInfoInputs.cache
+D:\Git\RailFazlyev\Human_Main copy\obj\Debug\net7.0\Human_Main.AssemblyInfo.cs
+D:\Git\RailFazlyev\Human_Main copy\obj\Debug\net7.0\Human_Main.csproj.CoreCompileInputs.cache
+D:\Git\RailFazlyev\Human_Main copy\obj\Debug\net7.0\Human_Main.dll
+D:\Git\RailFazlyev\Human_Main copy\obj\Debug\net7.0\refint\Human_Main.dll
+D:\Git\RailFazlyev\Human_Main copy\obj\Debug\net7.0\Human_Main.pdb

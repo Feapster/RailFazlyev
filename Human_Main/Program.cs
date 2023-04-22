@@ -1,10 +1,9 @@
-﻿using System;
+﻿// Фазлыев Раиль 11-207
+
+using System;
 using System.Collections.Generic;
 
-
-
 Parent parent1 = new Parent("Alice", 45, Gender.Female, "New York", "Engineer");
-
 Student student1 = new Student("Bob", 20, Gender.Male, "New York", parent1, "Harvard University", "Computer Science");
 Teacher teacher1 = new Teacher("Charlie", 35, Gender.Male, "New York", parent1, "Mathematics", 5000);
 
@@ -26,8 +25,6 @@ group1.RemoveStudent(student1);
 school1.RemoveGroup(group1);
 
 
-
-
 public enum Gender { Male, Female }
 
 public class Human
@@ -38,7 +35,7 @@ public class Human
     public Gender Gender { get; set; }
     public string PlaceOfLiving { get; set; }
 
-    // Конструктор для инициализации Human
+    // Конструктор - Инициализации Human
     public Human(string name, int age, Gender gender, string placeOfLiving)
     {	
         Name = name;
@@ -55,7 +52,7 @@ public class Teacher : Human
     public string Subject { get; set; }
     public double Salary { get; set; }
 
-    // Конструктор для инициализации Teacher
+    // Конструктор - Инициализации Teacher
     public Teacher(string name, int age, Gender gender, string placeOfLiving, Parent parent, string subject, double salary)
     : base(name, age, gender, placeOfLiving)
     {
@@ -81,7 +78,7 @@ public class Teacher : Human
         Console.WriteLine($"Dear {student.Name}, your assignment is: {assignment}");
     }
 }
-
+ 
 public class Student : Human
 {
     // Свойтсва : Родитель, Универститет, Специализация
@@ -110,7 +107,7 @@ public class Parent : Human
     // Свойтсва : Работа 
     public string Job { get; set; }
 
-    // Конструктор для инициализации Parent
+    // Конструктор - Инициализации Parent
     public Parent(string name, int age, Gender gender, string placeOfLiving, string job)
     : base(name, age, gender, placeOfLiving)
     {
@@ -135,7 +132,7 @@ public class Group
     public Teacher Teacher { get; set; }
     public List<Student> Students { get; private set; }
 
-    // Конструктор для инициализации Group
+    // Конструктор - И  нициализации Group
     public Group(Teacher teacher, List<Student> students = null)
     {
         Teacher = teacher;

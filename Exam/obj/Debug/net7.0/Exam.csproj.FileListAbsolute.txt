@@ -1,0 +1,15 @@
+D:\Git\RailFazlyev\Exam\obj\Debug\net7.0\Exam.csproj.AssemblyReference.cache
+D:\Git\RailFazlyev\Exam\obj\Debug\net7.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\RailFazlyev\Exam\obj\Debug\net7.0\Exam.AssemblyInfoInputs.cache
+D:\Git\RailFazlyev\Exam\obj\Debug\net7.0\Exam.AssemblyInfo.cs
+D:\Git\RailFazlyev\Exam\obj\Debug\net7.0\Exam.csproj.CoreCompileInputs.cache
+D:\Git\RailFazlyev\Exam\bin\Debug\net7.0\Exam.exe
+D:\Git\RailFazlyev\Exam\bin\Debug\net7.0\Exam.deps.json
+D:\Git\RailFazlyev\Exam\bin\Debug\net7.0\Exam.runtimeconfig.json
+D:\Git\RailFazlyev\Exam\bin\Debug\net7.0\Exam.dll
+D:\Git\RailFazlyev\Exam\bin\Debug\net7.0\Exam.pdb
+D:\Git\RailFazlyev\Exam\obj\Debug\net7.0\Exam.dll
+D:\Git\RailFazlyev\Exam\obj\Debug\net7.0\refint\Exam.dll
+D:\Git\RailFazlyev\Exam\obj\Debug\net7.0\Exam.pdb
+D:\Git\RailFazlyev\Exam\obj\Debug\net7.0\Exam.genruntimeconfig.cache
+D:\Git\RailFazlyev\Exam\obj\Debug\net7.0\ref\Exam.dll
